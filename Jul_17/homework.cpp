@@ -3,6 +3,6 @@
 
 int main()
 {
-	std::cout << gcd(8, 4);
+	std::cout << firstUppercase("heLlFFF");
 	return 0;
 }
